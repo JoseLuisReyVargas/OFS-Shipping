@@ -1,0 +1,21 @@
+{
+  "name": "ofs-shipping",
+  "version": "0.0.1",
+  "description": "Demo OFS Ship Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "micro": "^7.3.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
